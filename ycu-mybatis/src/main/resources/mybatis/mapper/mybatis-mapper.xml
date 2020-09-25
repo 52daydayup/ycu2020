@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ycu.ycumybatis.mapper.CustomerMapper">
+    <resultMap id="BaseResultMap" type="com.ycu.ycumybatis.model.Customer">
+        <id property="id" column="id" jdbcType="BIGINT"/>
+        <result property="username" column="username" jdbcType="VARCHAR"/>
+        <result property="password" column="password" jdbcType="VARCHAR"/>
+        <result property="sex" column="sex" jdbcType="VARCHAR"/>
+        <result property="nickName" column="nick_name" jdbcType="VARCHAR"/>
+    </resultMap>
+
+
+
+<!--    添加-->
+    <insert id="insert" parameterType="customer">
+        INSERT INTO
+            customer(username,password,sex)
+        value (#{username},#{password},#{sex})
+    </insert>
+<!--    更新-->
+    <update id="update" parameterType="customer">
+        update customer set
+        <if test="username != null">username=#{username},</if>
+        <if test="password != null ">password=#{password},</if>
+
+        nick_name = #{nickName}
+        where
+        id = #{id}
+    </update>
+<!--        删除-->
+    <delete id="delete" parameterType="Long">
+        delete from customer where id = #{id}
+    </delete>
+<!--    抽取公共的列-->
+    <sql id="Base_Column_List">
+        id,username,password,sex,nick_name
+    </sql>
+
+<!--    查询全部-->
+    <select id="getAll" resultMap="BaseResultMap">
+        select
+        <include refid="Base_Column_List"></include>
+        from customer
+    </select>
+
+<!--    根据id查询-->
+    <select id="getOne" parameterType="Integer" resultMap="BaseResultMap">
+        select
+        <include refid="Base_Column_List"></include>
+        from customer
+        where id=#{id}
+    </select>
+</mapper>

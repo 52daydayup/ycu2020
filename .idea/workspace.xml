@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3bdbd1a-e185-41a1-b0c9-351d57c86830" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ycu-hello/target/" />
+    <ignored path="$PROJECT_DIR$/ycu-web/target/" />
+    <ignored path="$PROJECT_DIR$/ycu-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/ycu-mall/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="9f7473c6-3b62-4711-90f6-0b09202f088f" value="Blue" />
+    </colors>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - mall@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - mall@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - mall@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mall: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - mall@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mall: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="ums_admin: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/resources/mybatis/mapper/UmsAdminDao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-152">
+              <caret line="125" column="11" lean-forward="true" selection-start-line="125" selection-start-column="11" selection-end-line="125" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/web/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="80" column="48" lean-forward="true" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ycu-hello/src/main/java/com/huike/ycu/Controller/HiController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/service/AdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/service/impl/AdminServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#login#0;class#AdminServiceImpl#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/YcuMallApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ycu-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/ycu-hello/src/main/java/com/huike/ycu/YcuHelloApplication.java" />
+        <option value="$PROJECT_DIR$/ycu-hello/src/main/java/com/huike/ycu/Controller/HiController.java" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/resources/templates/first.html" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/repository/UserDao.java" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/service/UserService.java" />
+        <option value="$PROJECT_DIR$/ycu-web/pom.xml" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/resources/templates/hello.html" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/YcuWebApplication.java" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/resources/templates/user/userAdd.html" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/model/User.java" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/resources/templates/user/list.html" />
+        <option value="$PROJECT_DIR$/ycu-web/src/main/resources/templates/user/userEdit.html" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/resources/static/mybatis-cofig.xml" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/resources/static/mapper/mybatis-mapper.xml" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/YcuMybatisApplication.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/test/java/com/ycu/ycumybatis/YcuMybatisApplicationTests.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/model/Customer.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/resources/mybatis/mapper/mybatis-mapper.xml" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/mapper/CustomerMapper.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/test/java/com/ycu/ycumybatis/CustomerMapperTest.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/web/CustomerCotroller.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/test/java/com/ycu/ycumybatis/CustomerControllerTest.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/model/UmsAdmin.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/resources/mybatis/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/mapper/UmsAdminDao.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/web/AdminController.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/test/java/com/ycu/ycumybatis/AdminTest.java" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/resources/mybatis/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/ycu-mybatis/src/main/resources/mybatis/mapper/UmsAdminDao.xml" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/YcuMallApplication.java" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/test/java/com/ycu/ycumall/AdminTest.java" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/result/Result.java" />
+        <option value="$PROJECT_DIR$/ycu-mall/pom.xml" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/result/CodeMsg.java" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/util/MD5Util.java" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/model/UmsAdmin.java" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/mapper/UmsAdminDao.java" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/resources/mybatis/mapper/UmsAdminDao.xml" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/web/AdminController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\20200727hk\idea\IntelliJ IDEA 2019.1\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ycu-mybatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ycu-mybatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="630" />
+    <option name="y" value="21" />
+    <option name="width" value="1593" />
+    <option name="height" value="917" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ycu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ycu" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Last_workspace\ycu\ycu-mall\src\main\resources" />
+      <recent name="D:\Last_workspace\ycu\ycu-mall\src\main\java\com\ycu\ycumall" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Last_workspace\ycu\ycu-mall\src\main\resources\mybatis\mapper" />
+      <recent name="D:\Last_workspace\ycu\ycu-mybatis\src\main\resources\mybatis\mapper" />
+      <recent name="D:\Last_workspace\ycu\ycu-mybatis\src\main\resources" />
+      <recent name="D:\Last_workspace\ycu\ycu-mybatis\src\main\resources\static\mybatis" />
+      <recent name="D:\Last_workspace\ycu\ycu-web\src\main\resources\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.YcuMallApplication">
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ycu.ycumall.util.MD5Util" />
+      <module name="ycu-mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycu.ycumall.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ycu-mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycu.ycumall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ycu.ycumall" />
+      <option name="MAIN_CLASS_NAME" value="com.ycu.ycumall.AdminTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminTest.insertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ycu-mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycu.ycumall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ycu.ycumall" />
+      <option name="MAIN_CLASS_NAME" value="com.ycu.ycumall.AdminTest" />
+      <option name="METHOD_NAME" value="insertTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminTest.updateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ycu-mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycu.ycumall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ycu.ycumall" />
+      <option name="MAIN_CLASS_NAME" value="com.ycu.ycumall.AdminTest" />
+      <option name="METHOD_NAME" value="updateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YcuMallApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ycu-mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycu.ycumall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ycu.ycumall" />
+      <option name="MAIN_CLASS_NAME" value="com.ycu.ycumall.YcuMallApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YcuHelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ycu-hello" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huike.ycu.YcuHelloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YcuMallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ycu-mall" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ycu.ycumall.YcuMallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YcuMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ycu-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ycu.ycumybatis.YcuMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YcuWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ycu-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huike.ycuweb.YcuWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MD5Util" />
+        <item itemvalue="JUnit.YcuMallApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.AdminTest.findAll" />
+        <item itemvalue="JUnit.AdminTest.updateTest" />
+        <item itemvalue="JUnit.AdminTest.insertTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showFiles" value="false" />
+    <option name="showImplicitBeans" value="false" />
+    <option name="showInfrastructureBeans" value="false" />
+    <option name="showDoc" value="false" />
+    <option name="showGraph" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3bdbd1a-e185-41a1-b0c9-351d57c86830" name="Default Changelist" comment="" />
+      <created>1600226456957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600226456957</updated>
+      <workItem from="1600226460436" duration="4704000" />
+      <workItem from="1600240658143" duration="9223000" />
+      <workItem from="1600303473757" duration="16613000" />
+      <workItem from="1600389866743" duration="6341000" />
+      <workItem from="1600748069171" duration="1217000" />
+      <workItem from="1600831752978" duration="132000" />
+      <workItem from="1600831971893" duration="6814000" />
+      <workItem from="1600843506673" duration="335000" />
+      <workItem from="1600843876532" duration="5655000" />
+      <workItem from="1600910184326" duration="18398000" />
+      <workItem from="1601001974557" duration="9859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AdminTest_insertTest - 2020.09.24 at 11h 40m 14s.xml">
+      <configuration name="AdminTest.insertTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_updateTest - 2020.09.24 at 11h 45m 08s.xml">
+      <configuration name="AdminTest.updateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_updateTest - 2020.09.24 at 11h 51m 08s.xml">
+      <configuration name="AdminTest.updateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_updateTest - 2020.09.24 at 11h 52m 13s.xml">
+      <configuration name="AdminTest.updateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_findAll - 2020.09.24 at 11h 57m 18s.xml">
+      <configuration name="AdminTest.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_findAll - 2020.09.24 at 11h 57m 55s.xml">
+      <configuration name="AdminTest.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_findAll - 2020.09.24 at 11h 59m 03s.xml">
+      <configuration name="AdminTest.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YcuMallApplicationTests_contextLoads - 2020.09.24 at 16h 59m 11s.xml">
+      <configuration name="YcuMallApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YcuMallApplicationTests_contextLoads - 2020.09.24 at 17h 01m 41s.xml">
+      <configuration name="YcuMallApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YcuMallApplicationTests_contextLoads - 2020.09.24 at 17h 03m 04s.xml">
+      <configuration name="YcuMallApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79291000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="509" y="17" width="1285" height="739" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2999185" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49900332" weight="0.3273906" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8057143" weight="0.26433566" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.2599837" visible="true" weight="0.3448276" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.7548701" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32867134" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.7400163" side_tool="true" visible="true" weight="0.3448276" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49966776" weight="0.28111887" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32867134" />
+      <window_info anchor="bottom" id="Database Console" order="15" sideWeight="0.49877352" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24938676" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.080684595" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32956812" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="CodeMsg.PASSWORD_ERROR" language="JAVA" />
+        <watch expression="CodeMsg.PASSWORD_ERROR" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/main/resources/templates/user/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/test/java/com/huike/ycuweb/YcuWebApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/YcuWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1466#1467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/model/UmsAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/mapper/CustomerMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/web/CustomerCotroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/mapper/CustomerMapper.java" />
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/model/Customer.java" />
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/web/CustomerCotroller.java" />
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/resources/mybatis/mapper/mybatis-mapper.xml" />
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/resources/mybatis/mapper/UmsAdminDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="145" column="11" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="11" />
+          <folding>
+            <element signature="n#resultMap#0;n#mapper#0;n#!!top" />
+            <element signature="n#sql#0;n#mapper#0;n#!!top" />
+            <element signature="n#select#0;n#mapper#0;n#!!top" />
+            <element signature="n#insert#0;n#mapper#0;n#!!top" />
+            <element signature="n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#update#1;n#mapper#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/YcuMybatisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/mapper/UmsAdminDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/repository/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/main/resources/templates/user/userEdit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13.jar!/org/junit/internal/requests/FilterRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/result/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1186#1187#0" expanded="true" />
+            <element signature="e#1218#1219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/test/java/com/ycu/ycumall/YcuMallApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/util/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/result/CodeMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+          <folding>
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/java/com/ycu/ycumybatis/web/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/model/UmsAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="144" column="30" lean-forward="true" selection-start-line="144" selection-start-column="30" selection-end-line="144" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/test/java/com/ycu/ycumall/AdminTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/mapper/UmsAdminDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-web/src/main/java/com/huike/ycuweb/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/main/resources/mybatis/mapper/mybatis-mapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding>
+            <element signature="n#resultMap#0;n#mapper#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/test/java/com/ycu/ycumybatis/AdminTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/test/java/com/ycu/ycumybatis/CustomerControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mybatis/src/test/java/com/ycu/ycumybatis/CustomerMapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/resources/mybatis/mapper/UmsAdminDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="125" column="11" lean-forward="true" selection-start-line="125" selection-start-column="11" selection-end-line="125" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#login#0;class#AdminServiceImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/YcuMallApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-mall/src/main/java/com/ycu/ycumall/web/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="80" column="48" lean-forward="true" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ycu-hello/src/main/java/com/huike/ycu/Controller/HiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ycu-mybatis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

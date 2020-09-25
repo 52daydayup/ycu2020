@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>编辑用户</title>
+    <link rel="stylesheet" th:href="@{/css/bootstrap.css}">
+</head>
+<body>
+<h1>修改用户</h1>
+<div class="with:80%">
+    <form class="form-horizontal" th:action="@{/edit}" th:object="${user}" method="post">
+
+        <input type="hidden" name="id" th:value="*{id}">
+        <div class="form-group">
+            <label for="username" class="col-sm-2 control-label">用户名</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" name="username" id="username" th:value="${user.getUsername()}">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="password" class="col-sm-2 control-label">密码</label>
+            <div class="col-sm-10">
+                <input type="password" class="form-control" name="password" id="password" th:value="${user.getPassword()}">
+            </div>
+
+        </div>
+
+        <div class="form-group">
+            <label for="age" class="col-sm-2 control-label">年龄</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" name="age" id="age" th:value="${user.getAge()}">
+            </div>
+
+        </div>
+
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <input type="submit" value="提交" class="btn btn-info" >
+                <a href="/toAdd" th:href="@{/list}" class="btn btn-info">回退</a>
+            </div>
+
+        </div>
+    </form>
+</div>
+</body>
+
+</html>
